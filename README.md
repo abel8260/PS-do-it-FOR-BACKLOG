@@ -2,6 +2,7 @@
 Abordando metodologia scrum, esse mini sistema estréia um passo a passo de backlog e user stories para o seu projeto. P.S.: Feito com muito carinho para meus pupilos do github. &lt;3              
 
 ## Como usar:
+
 -  O código foi feito em html com um tico de bootstrap. 
 -  Para usar basta ir adicionando os cards exemplos como este:
          
@@ -21,3 +22,11 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
         </div>
         
  ´´´
+- Em Ebol você substitui por seu nome
+- Titulo é o titulo do post it
+- E descriçao você coloca o que for de comentario ou texto mesmo 
+
+## Como implementar uma nova linha de backlog:
+
+- 
+
