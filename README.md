@@ -28,5 +28,31 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 
 ## Como implementar uma nova linha de backlog:
 
-- 
+- Você adiciona a seguintes linhas:
+- Essa acima do primeiro card:     
 
+ ´´´
+        <div class="row row-cols-4">
+
+                 
+ ´´´
+         
+- E essa abaixo dos 3 cards:
+         
+
+ ´´´
+        </div>
+                 
+ ´´´
+ 
+## Como delimitar as colunas dos cards (ou post-its):
+
+- Coloque o seguinte código acima do primeiro card da coluna:
+
+
+ ´´´
+ 
+ 
+ 
+ 
+ ´´´
