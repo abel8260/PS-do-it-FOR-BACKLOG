@@ -31,28 +31,34 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 - Você adiciona a seguintes linhas:
 - Essa acima do primeiro card:     
 
- ´´´
+´´´
         <div class="row row-cols-4">
 
                  
- ´´´
+´´´
          
 - E essa abaixo dos 3 cards:
          
 
- ´´´
+´´´
         </div>
                  
- ´´´
+´´´
  
 ## Como delimitar as colunas dos cards (ou post-its):
 
 - Coloque o seguinte código acima do primeiro card da coluna:
 
 
- ´´´
+´´´
+ <div class="col" style="border: 2px solid black; margin:5px;">
  
- 
- 
- 
- ´´´
+´´´
+         
+- E essa abaixo dos  cards:
+         
+
+´´´
+        </div>
+                 
+´´´
