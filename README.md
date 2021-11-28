@@ -59,11 +59,10 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
     <div class="col" style="border: 2px solid black; margin:5px;"> 
         
  ´´´
-
-
-         
+       
          
 - E essa abaixo dos  cards:
+
          
  ´´´
 
@@ -72,4 +71,16 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
  ´´´         
 
 
+ ## Titulo do app:
+ 
+ - Em "PS.do-it system" vc coloca o nome do seu projeto ou app.  
+
+ ´´´
+ 
+          <a href="/" class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-black  text-decoration-none">
+            <svg class="bi me-2" width="40" height="32" role="img" aria-label="Bootstrap"><use xlink:href="#bootstrap"/></svg> PS.do-it system
+          </a>
+
+
+ ´´´
 
