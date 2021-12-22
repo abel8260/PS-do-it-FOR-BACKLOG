@@ -1,4 +1,4 @@
-# PS-do-it-FOR-BACKLOG
+# PS-do-it-FOR-BACKLOG v2-0
 Abordando metodologia scrum, esse mini sistema estréia um passo a passo de backlog e user stories para o seu projeto. P.S.: Feito com muito carinho para meus pupilos do github. &lt;3              
 
 ## Como usar:
