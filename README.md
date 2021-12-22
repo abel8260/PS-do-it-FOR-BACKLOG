@@ -22,6 +22,7 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
         </div>
         
  ´´´
+ 
 - Em Ebol você substitui por seu nome
 - Titulo é o titulo do post it
 - E descriçao você coloca o que for de comentario ou texto mesmo 
@@ -29,7 +30,8 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 ## Como implementar uma nova linha de backlog:
 
 - Você adiciona a seguintes linhas:
-- Essa acima do primeiro card:     
+- Essa acima do primeiro card:
+     
   ´´´
 
         <div class="row row-cols-4">
@@ -74,6 +76,7 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
  ## Titulo do app:
  
  - Em "PS.do-it system" vc coloca o nome do seu projeto ou app.  
+ 
 
  ´´´
  
@@ -84,3 +87,20 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 
  ´´´
 
+## v2-0 Feature
+
+
+- Nessa feature temos a questao das seções dentro d e 1 backlog q  ue voce pode conseguir adicionando essalina de codigo ao arquivo html.
+
+
+ ´´´
+ 
+         <div class="container">
+         <br/>
+         <hr/>
+         <br/>
+         </div>    
+
+ ´´´
+
+- Essalinha de codigo  adicionara  um hr . (linha) ao seu front end(visual)  do seu backlog.  Mais informações em breve.  Tchauzinho pimpoooolhos do bel.          
