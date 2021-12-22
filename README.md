@@ -90,7 +90,7 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 ## v2-0 Feature
 
 
-- Nessa feature temos a questao das seções dentro d e 1 backlog q  ue voce pode conseguir adicionando essalina de codigo ao arquivo html.
+- Nessa feature temos a questao das seções dentro de 1 backlog q  ue voce pode conseguir adicionando essa linha de código ao arquivo html.
 
 
  ´´´
@@ -103,4 +103,4 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 
  ´´´
 
-- Essalinha de codigo  adicionara  um hr . (linha) ao seu front end(visual)  do seu backlog.  Mais informações em breve.  Tchauzinho pimpoooolhos do bel.          
+- Essa linha de codigo  adicionara  um hr. (linha) ao seu front end(visual)  do seu backlog.  Mais informações em breve.  Tchauzinho pimpoooolhos do bel.          
