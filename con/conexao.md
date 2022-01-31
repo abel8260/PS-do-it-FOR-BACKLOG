@@ -1,3 +1,4 @@
-host: http://127.0.0.1:5500/ ;
-port: 5500;
-stack: xampp/lampp;   
+- host: http://127.0.0.1:5500/ ;
+- port: 5500;
+- stack: xampp/lampp; 
+- framework: bootstrap;    
