@@ -3,7 +3,22 @@
 # PS-do-it-FOR-BACKLOG v3-0
 Abordando metodologia scrum, esse mini sistema estréia um passo a passo de backlog e user stories para o seu projeto. P.S.: Feito com muito carinho para meus pupilos do github. &lt;3              
 
+***
 
+ # :office: DOC:
+ 
+![imagem](https://img.shields.io/badge/doc-eap%20-blue)
+![imagem](https://img.shields.io/badge/doc-itil%20-blue)
+![imagem](https://img.shields.io/badge/doc-kpi%20-blue)
+![imagem](https://img.shields.io/badge/doc-pdca%20-blue)
+![imagem](https://img.shields.io/badge/doc-pmbok%20-blue)
+![imagem](https://img.shields.io/badge/doc-google%20-orange) 
+![imagem](https://img.shields.io/badge/doc-semrush%20-orange) 
+![imagem](https://img.shields.io/badge/doc-sla%20-orange) 
+![imagem](https://img.shields.io/badge/doc-smart15%20-blue) 
+![imagem](https://img.shields.io/badge/doc-sow%20-blue) 
+
+***
 
 
 # Estrada até aqui:
