@@ -16,7 +16,7 @@
 
 - Essa linha de codigo  adicionara  um hr. (linha) ao seu front end(visual)  do seu backlog.  Mais informações em breve.  Tchauzinho pimpoooolhos do bel.    
       
-## v2-0 Feature
+## v3-0 Feature
 
 ### perfil(feature-v-3-0):
 
