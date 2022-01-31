@@ -23,7 +23,7 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 
 - ❎ Estruturaçao;
 - ❎ qualidade;
-- ❎ comentarios;
+- ✅ comentarios;
 - ❎ orquestrado;
 - ✅ modelo-by-out;      
 
