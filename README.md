@@ -5,7 +5,7 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 
 ***
 
- # :office: DOC:
+ ## :office: DOC:
  
 ![imagem](https://img.shields.io/badge/doc-eap%20-blue)
 ![imagem](https://img.shields.io/badge/doc-itil%20-blue)
@@ -27,7 +27,7 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 - ❎ orquestrado;
 - ✅ modelo-by-out;      
 
-# Estrada até aqui:
+### Roadmap:
 - WIKI: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/wiki
 - Newsletter: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/tree/main/read-mes
 - perfil(feature-v-3-0): https://github.com/abel8260/PS-do-it-FOR-BACKLOG/tree/main/codigo_neste_lugar
