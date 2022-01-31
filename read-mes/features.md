@@ -1,5 +1,6 @@
 ## v2-0 Feature
 
+### seções: 
 
 - Nessa feature temos a questao das seções dentro de 1 backlog q  ue voce pode conseguir adicionando essa linha de código ao arquivo html.
 
