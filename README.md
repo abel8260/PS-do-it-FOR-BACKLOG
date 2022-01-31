@@ -6,6 +6,6 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 
 
 
-# Links uteis:
+# Estrada até aqui:
 - WIKI: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/wiki
 
