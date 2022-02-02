@@ -21,10 +21,8 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 ***
 ## Qualidade de software:
 
-- ❎ Estruturaçao;
-- ❎ qualidade;
+
 - ✅ comentarios;
-- ❎ orquestrado;
 - ✅ modelo-by-out;      
 
 ### Roadmap:
