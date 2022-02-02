@@ -64,8 +64,8 @@ DONE:
       
 
 PMBOK: #### DOCUMENTAÇÃO ####
-Inicio:
-planejamento:
-execução:
+Inicio: 23/11/21
+planejamento: back end 
+execução: login others
 monitoramento e controle: SUmmerR 
-Meta-benta:                         
+Meta-benta: 07/02/22                        
