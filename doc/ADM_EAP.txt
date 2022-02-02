@@ -1,0 +1,28 @@
+EAP: ########################
+
+Por fazer: (ciclo de vida)
+ciclo de vida 1 -  home.html / code_here
+ciclo de vida 2 - /code,/mvc,/doc,/con
+
+Por entregar:
+(# TODO)
+# entrega 1 - home.html
+# entrega 2 - feature 2
+# entrega 3 - atual      
+
+Por subprojeto: (mini projeto)
+#1 - perfil de usuario
+#2 - perfil de projeto
+#3 - projeto
+#4 - usuario
+#5 - código  
+
+
+todo
+# comentar eap;  
+
+
+
+hibrida:(OBSERVAÇÕES)  
+Documentar o documento eap  
+ 

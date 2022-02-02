@@ -1,0 +1,22 @@
+Estrutura ITIL:
+
+Estratégia de serviço:
+#requisitos: chromium
+#necessidades: localStorage js  
+
+Projeto de serviço:
+#service-design: pd.prj
+
+Transição de serviço:
+#mudanças na  organização: estrutura de pastas           
+
+Operação de serviço: 
+#SLA: A+ 
+
+Melhoria continua:
+#widgets:   
+- perfil de projeto
+- perfil de usuario
+- usuario
+- projeto
+- código        

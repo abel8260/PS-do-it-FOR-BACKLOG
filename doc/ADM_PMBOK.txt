@@ -1,0 +1,71 @@
+NIVEIS 1 A 4 
+Tarefas#: ###### projeto ps DO-IT BACKLOG 
+
+Backlog:
+## projeto de entrega 3
+=> kambam
+=> pnl.pdca
+=> doc.kpi
+=> doc.pdca
+=> doc.smart15 
+=> doc. itil
+
+## projeto de entrega 4
+=> deploy
+=> status 
+=> produçao 
+
+## projeto de entrega 5
+=> seo
+=> bck
+=> dev
+=> wiki
+
+## projeto de entrega 6
+=> login-others
+
+
+## projeto de entrega 7
+=> gerar export.json 
+=> package   
+=> ++ux 2 camadas   
+
+TODO:#
+=>  
+    
+Plan:
+
+=> 
+          
+Dev:
+Test:
+Deploy:
+Analyze:
+
+ATUALIDADE:######  
+ 
+U:
+
+TODO:#
+=> 
+      
+DOING:
+=>
+
+DONE:
+=> fr
+=> indentaçao
+=> swot
+=> mvc
+=> read-me apresentavel
+=> pd.prj
+=> pmbok
+=> eap
+      
+
+PMBOK: #### DOCUMENTAÇÃO ####
+Inicio:
+planejamento:
+execução:
+monitoramento e controle: SUmmerR 
+Meta-benta:                         
