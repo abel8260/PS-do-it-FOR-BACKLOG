@@ -21,7 +21,9 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 ***
 ## Qualidade de software:
 
-
+- ✅ estruturado; 
+- ✅ qualidade;
+- ✅ orchestral;   
 - ✅ comentarios;
 - ✅ modelo-by-out;      
 
@@ -31,3 +33,4 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 - perfil(feature-v-3-0): https://github.com/abel8260/PS-do-it-FOR-BACKLOG/tree/main/codigo_neste_lugar
 - stack e configuraçoes:  https://raw.githubusercontent.com/abel8260/PS-do-it-FOR-BACKLOG/main/con/conexao.md 
 - documentaçao: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/tree/main/doc
+l
