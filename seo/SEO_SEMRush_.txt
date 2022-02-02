@@ -1,5 +1,5 @@
-visitas diretas no site:
-quantidade de páginas acessadas: UNKOWN
+visitas diretas no site: 120 per day 
+quantidade de páginas acessadas: 32
 taxa de rejeição:50%
 total de dominios de referencia:3
 
