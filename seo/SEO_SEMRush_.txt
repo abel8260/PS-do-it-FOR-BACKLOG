@@ -1,6 +1,6 @@
 visitas diretas no site:
 quantidade de páginas acessadas: UNKOWN
-taxa de rejeição:UNKOWN
+taxa de rejeição:50%
 total de dominios de referencia:3
 
 tamanho do conteudo:(regra dos +45%)
