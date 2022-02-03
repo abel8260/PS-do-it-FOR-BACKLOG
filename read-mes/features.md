@@ -69,6 +69,8 @@
 
 ### codigo(feature-v-5-0):
 
+- nome do codigo agora pode ser posto onde indicado:   
+
  ´´´
  
      
@@ -92,14 +94,7 @@
                 <br/><!--BLOCO-PULA-LINHA-->
                 
 
-
-
-
-
-
-
-
-<!--BLOCO-INICIO--> 
+                <!--BLOCO-INICIO--> 
                 <header><!-- Bloco de código  HEADER - cabeçalho div  -->
 
                     <!--BLOCO-BOOTSTRAP-->
@@ -159,6 +154,10 @@
 
 ### dev(feature-v-6-0):
 
+
+- o nome do deva fazer a user story agora pode ser colocado emcima da task:         
+
+
  ´´´
  
                                      <!--BLOCO-card-header-->
@@ -181,6 +180,10 @@
 ## v7-0 Feature
 
 ### local do usuario (feature-v-7-0):
+
+
+- o local do usuario daquele sistema em especifico pode ser adicionado em /usuario/:       
+
 
 ´´´
                                      <!--BLOCO-li-->
@@ -220,6 +223,10 @@
 ## v8-0 Feature
 
 ### perfil do projeto (feature-v-8-0):
+
+
+- um local para secsionar seu projeto em perfis pode ser encontrado agora:       
+
 
                                     ´´´
 
