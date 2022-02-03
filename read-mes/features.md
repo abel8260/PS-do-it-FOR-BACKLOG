@@ -217,4 +217,34 @@
 
 ## v8-0 Feature
 
-### local do projeto (feature-v-8-0):
+### perfil do projeto (feature-v-8-0):
+
+                                    ´´´
+
+                                    <!--BLOCO-li-->
+                                    <li>
+
+                                        <!--BLOCO-A-->
+                                        <a href="#" class="nav-link text-black">
+ 
+                                            <!--BLOCO-SVG-->
+                                                <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#grid"/></svg>
+                                            <!--/BLOCO-SVG-->
+                                        <!--/BLOCO-A
+                                        - codigo para  img  ;
+                                        - conj, de instruçoes em coordenadas  
+                                        - a 
+                                        -->
+
+                                        DOC
+
+                                        </a>
+                                        <!--/BLOCO-A-->
+                                        <!--/BLOCO-A
+                                        - link;
+                                        - somente ida 
+                                        - a 
+                                        -->
+
+                                    </li>
+´´´ 
