@@ -1,7 +1,7 @@
 EAP: ########################
 
 Por fazer: (ciclo de vida)
-ciclo de vida 1 -  home.html / code_here
+ciclo de vida 1 -  home.html /code_here
 ciclo de vida 2 - /code,/mvc,/doc,/con
 
 Por entregar:
@@ -24,5 +24,5 @@ todo
 
 
 hibrida:(OBSERVAÇÕES)  
-Documentar o documento eap  
+Segundo a EAP o ciclo de vida é o 2. Mini projetos todos ok. e entrega no rumo     
  
