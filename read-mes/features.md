@@ -194,7 +194,7 @@
                                                 <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#people-circle"/></svg>
                                             <!--/BLOCO-SVG-->
 
-                                           Ebol
+                                          usuario 
 
                                         </a>
                                         <!--/BLOCO-A-->
