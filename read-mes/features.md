@@ -27,6 +27,7 @@
 
 - Agora voce pode cadastrar seu time e amigos eate vc no sistema;
          
+         
 ---
 
 ## v4-0 Feature
@@ -71,3 +72,15 @@
 ## v6-0 Feature
 
 ### dev(feature-v-6-0):
+
+---
+
+## v7-0 Feature
+
+### local do usuario (feature-v-7-0):
+
+---
+
+## v8-0 Feature
+
+### local do projeto (feature-v-8-0):
