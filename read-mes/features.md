@@ -33,6 +33,32 @@
 
 ### projeto(feature-v-4-0):
 
+ ´´´
+ 
+                               <!--BLOCO-PS.do-it system-->
+                                <a href="home.html" class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-black  text-decoration-none">
+
+                                    <!--BLOCO-SVG-->
+                                        <svg class="bi me-2" width="40" height="32" role="img" aria-label="Bootstrap"><use xlink:href="#bootstrap"/></svg>
+                                    <!--/BLOCO-SVG-->
+                                    <!--/BLOCO-SVG
+                                    - bloco de recursao;
+                                    - bloco indicador de svg
+                                    - svg
+                                    -->
+                               
+                                PS.do-it system // nome do seu projeto
+
+                                </a>
+                                <!--/BLOCO-A
+                                - link;
+                                - somente ida 
+                                - a 
+                                -->
+                                <!--/BLOCO-PS.do-it system-->   
+
+ ´´´
+
 ---
 
 ## v5-0 Feature
