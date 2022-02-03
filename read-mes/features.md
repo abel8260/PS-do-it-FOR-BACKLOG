@@ -180,6 +180,39 @@
 
 ### local do usuario (feature-v-7-0):
 
+´´´
+                                     <!--BLOCO-li-->
+                                   
+
+                                   
+                                    <!--BLOCO-li-->
+                                    <li>
+                                        <!--BLOCO-A-->
+                                        <a href="profile.html" class="nav-link text-black">
+
+                                            <!--BLOCO-SVG-->
+                                                <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#people-circle"/></svg>
+                                            <!--/BLOCO-SVG-->
+
+                                           Ebol
+
+                                        </a>
+                                        <!--/BLOCO-A-->
+                                        <!--/BLOCO-A
+                                        - link;
+                                        - somente ida 
+                                        - a 
+                                        -->
+                                    </li>
+                                    <!--/BLOCO-li-->
+                                    <!-- Bloco de código  LI
+                                    - elemento da lista;
+                                    - item da lista;
+                                    - list item;     
+                                    -->
+                                    
+                                   ´´´ 
+                                   
 ---
 
 ## v8-0 Feature
