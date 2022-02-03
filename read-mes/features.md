@@ -157,6 +157,23 @@
 
 ### dev(feature-v-6-0):
 
+ ´´´
+ 
+                                     <!--BLOCO-card-header-->
+                                        <div class="card-header"><svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#grid"/></svg>
+
+                                            <p style="text-align: center;"> dev  </p>
+
+                                        </div>
+                                    <!--/BLOCO-card-header-->
+                                    <!-- Bloco de código  CARD header 
+                                    - cabeçalho;  
+                                    - defnition of user;  
+                                    - usuario;  
+                                    -->
+
+
+ ´´´
 ---
 
 ## v7-0 Feature
