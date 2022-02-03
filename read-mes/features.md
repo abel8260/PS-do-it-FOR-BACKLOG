@@ -35,6 +35,8 @@
 
 ### projeto(feature-v-4-0):
 
+- nome do prjeto pode ser posto onde indicado: 
+
  ´´´
  
                                <!--BLOCO-PS.do-it system-->
