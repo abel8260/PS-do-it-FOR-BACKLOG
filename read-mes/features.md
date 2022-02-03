@@ -26,7 +26,8 @@
 ### perfil(feature-v-3-0):
 
 - Agora voce pode cadastrar seu time e amigos eate vc no sistema;
-         
+  
+- link: https://raw.githubusercontent.com/abel8260/PS-do-it-FOR-BACKLOG/main/codigo_neste_lugar/profile.html
          
 ---
 
