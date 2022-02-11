@@ -31,8 +31,10 @@ Backlog:
 => ++ux 2 camadas   
 
 TODO:#
-=>  
+=>  velocidade de carregamento da pagina
+[INDEX][ 7 ][+u]
     
+=> 
 Plan:
 
 => 
@@ -64,8 +66,8 @@ DONE:
       
 
 PMBOK: #### DOCUMENTAÇÃO ####
-Inicio: 23/11/21
-planejamento: back end 
-execução: login others
+Inicio:
+planejamento:
+execução:
 monitoramento e controle: SUmmerR 
-Meta-benta: 07/02/22                        
+Meta-benta:                         

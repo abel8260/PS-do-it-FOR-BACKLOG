@@ -1,14 +1,15 @@
 EAP: ########################
 
 Por fazer: (ciclo de vida)
-ciclo de vida 1 -  home.html /code_here
+ciclo de vida 1 -  home.html / code_here
 ciclo de vida 2 - /code,/mvc,/doc,/con
-
+ciclo de vida 3 - miniprojetos
+ 
 Por entregar:
 (# TODO)
 # entrega 1 - home.html
 # entrega 2 - feature 2
-# entrega 3 - atual      
+# entrega 3 - final     
 
 Por subprojeto: (mini projeto)
 #1 - perfil de usuario
@@ -24,5 +25,5 @@ todo
 
 
 hibrida:(OBSERVAÇÕES)  
-Segundo a EAP o ciclo de vida é o 2. Mini projetos todos ok. e entrega no rumo     
+Documentar o documento eap  
  

@@ -2,21 +2,23 @@ Estrutura ITIL:
 
 Estratégia de serviço:
 #requisitos: chromium
-#necessidades: localStorage js  
+#necessidades: mys bs  
 
 Projeto de serviço:
-#service-design: pd.prj
+#service-design: design pattern 
 
 Transição de serviço:
-#mudanças na  organização: estrutura de pastas           
+#mudanças na  organização: php e xampp           
 
 Operação de serviço: 
 #SLA: A+ 
 
-Melhoria continua:
-#widgets:   
+#widgets: 
+entrega final:  
+-------------------   
 - perfil de projeto
 - perfil de usuario
 - usuario
 - projeto
-- código        
+- código  
+-------------------      

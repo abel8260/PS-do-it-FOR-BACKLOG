@@ -9,8 +9,8 @@ WHERE: identifica o local
 
 Seção M:
 //Mensurar prazos 
-(curto:back end 
-(médio:status 
+(curto:back end MYS
+(médio:status: lojinha github / patreon  
 (longo:deploy
        
 Seção A:

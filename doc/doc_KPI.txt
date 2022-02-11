@@ -1,19 +1,19 @@
-KPI-1) meta:
+KPI-1) meta:  gerar valor   
 
-KPI-2) produtividade:
+KPI-2) produtividade: baixa  
 
-KPI-3) tolerância:
+KPI-3) tolerância: low
 
-KPI-4) capacidade:
+KPI-4) capacidade: publico
 
-KPI-5) qualidade:
+KPI-5) qualidade: a+ 
 
-KPI-6) lucratividade:
+KPI-6) lucratividade: zero
 
-KPI-7) rentabilidade:
+KPI-7) rentabilidade: opensource
 
-KPI-8) competividade:
+KPI-8) competividade: +U[]
 
-KPI-9) efetividade:
+KPI-9) efetividade: biblioteca de html bootstrap para código    
 
-KPI-10) valor:            
+KPI-10) valor: entrega de valor            

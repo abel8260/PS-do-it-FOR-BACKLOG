@@ -1,18 +1,18 @@
 SOW - Declaraçao de trabalho 
     
-Nome: ps DO-IT Backlog 
+Nome: ps.DO-IT  for Backlog 
 
 resultado negociado: 
-quantidade => task) 
+37 => 16/02/21()
 
 descrição dos usos dos dados:
-=>localstorage
+=>backend php   
   
-especificações técnicas: => cv
+especificações técnicas: => stack XAMPP; 
 
 compartibilidade: open source
 padrão de qualidade:A+ 
 
 
-previsão de teste:8-80(07/02/22)
+previsão de teste:8-80(14/02/22)
                  
