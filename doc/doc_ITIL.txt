@@ -1,24 +1,26 @@
-Estrutura ITIL:
+############################################################################
+Estrutura ITIL:#############################################################
 
-Estratégia de serviço:
-#requisitos: chromium
-#necessidades: mys bs  
+Estratégia de serviço:--------------------serviços--------------------------
+#requisitos: chromium---------------------pré-------------------------------
+#necessidades: BS-------------------------necessidades----------------------
 
-Projeto de serviço:
-#service-design: design pattern 
+Projeto de serviço:-----------------------projetos-de-serviços--------------
+#service-design:scrum-helper--------------próposito-------------------------
 
-Transição de serviço:
-#mudanças na  organização: php e xampp           
+Transição de serviço:---------------------mudanças--------------------------
+#mudanças na  organização:vscode-plugin---mudanças--------------------------           
 
-Operação de serviço: 
-#SLA: A+ 
+Operação de serviço: ---------------------SLA-------------------------------
+#SLA: A+ ---------------------------------SLA-classificaçao-----------------
 
-#widgets: 
-entrega final:  
--------------------   
-- perfil de projeto
-- perfil de usuario
-- usuario
-- projeto
-- código  
--------------------      
+#widgets: --------------------------------serviços-extras-------------------
+melhoria continua:  ----------------------melhorias-futuras-----------------
+----------------------------------------------------------------------------  
+- perfil de projeto ----------------------locais----------------------------
+- perfil de usuario ----------------------locais----------------------------
+- usuario---------------------------------login-----------------------------
+- projeto---------------------------------projetos-no-software---------------
+- código  --------------------------------sistema-de-commit------------------
+---------------------------------------------------------------------------- 
+############################################################################    

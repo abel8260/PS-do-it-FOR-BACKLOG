@@ -1,18 +1,21 @@
-SOW - Declaraçao de trabalho 
-    
-Nome: ps.DO-IT  for Backlog 
+################################################################################
+SOW - Declaraçao de trabalho ###################################################
+                                       
+Nome: ps.DO-IT  for Backlog---------------P.S.:faça-----------------------------  
 
-resultado negociado: 
-37 => 16/02/21()
+resultado negociado:----------------------resultado-negociados-em-termos--------   
+37 códigos => 16/02/21(n-ok)--------------37-sources-até-dia-16-02-21-----------  
 
-descrição dos usos dos dados:
-=>backend php   
+descrição dos usos dos dados:-------------descriçao-de-usos--------------------- 
+=> entregue ------------------------------entregado-em-termos------------------- 
   
-especificações técnicas: => stack XAMPP; 
+especificações técnicas: => vscode Widget;widget-do-visual-studio-code---------- 
 
-compartibilidade: open source
-padrão de qualidade:A+ 
+compartibilidade: open source-------------é-aberto-para-comunidade--------------    
+padrão de qualidade: A+ ------------------regra--------------------------------- 
 
 
-previsão de teste:8-80(14/02/22)
+previsão de teste: 8-80 (14/02/22) -------teste-vindo---------------------------
+FIM - SOW - ####################################################################
+################################################################################
                  

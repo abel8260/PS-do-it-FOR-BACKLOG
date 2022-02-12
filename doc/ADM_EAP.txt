@@ -1,29 +1,24 @@
-EAP: ########################
+EAP: #####################################----------------------------------------
 
-Por fazer: (ciclo de vida)
-ciclo de vida 1 -  home.html / code_here
-ciclo de vida 2 - /code,/mvc,/doc,/con
-ciclo de vida 3 - miniprojetos
+Por fazer: (ciclo de vida)                --inicio e termino de vida do software--  
+ciclo de vida 1 -  home.html /code_here   --codigo-home-e-pasta-code_here---------  
+ciclo de vida 2 - /code,/mvc,/doc,/con    --pastas-code-mvc-doc-con---------------   
+ciclo de vida 3 - entrega final           --postagem-em-midias-------------------  
  
-Por entregar:
-(# TODO)
-# entrega 1 - home.html
-# entrega 2 - feature 2
-# entrega 3 - final     
+Por entregar:                             --postagem do software principal--------   
+(# TODO)                                  --tarefa=to-do=a-fazer------------------    
+# entrega 1 - home.html                   --pagina-home-em-html-------------------  
+# entrega 2 - feature 2                   --entrega-da-feature-2------------------   
+# entrega 3 - final                       --entrega-final-------------------------  
 
-Por subprojeto: (mini projeto)
-#1 - perfil de usuario
-#2 - perfil de projeto
-#3 - projeto
-#4 - usuario
-#5 - código  
+Por subprojeto: (mini projeto)            --projeto-dentro-de-projeto-------------
+# - tudo ok
 
 
-todo
-# comentar eap;  
+todo                                      --tarefa--------------------------------  
+# tudo ok;
 
 
-
-hibrida:(OBSERVAÇÕES)  
-Documentar o documento eap  
+tipo: hibrida.                             --tipificaçao-------------------------- 
+################################################################################## 
  
