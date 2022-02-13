@@ -13,6 +13,14 @@
 <br/>
 
 
+## 31/01/21
+
+| x                | fatores positivos |  fatores negativos |
+-------------------| ----------------- | ------------------ |
+| fatores internos |modelo-by-out      | estruturaçao       |
+| fatores externos | Q&A               |  documentado       |
+
+
 ## 15/02/21
 
 | x                |y                  |
