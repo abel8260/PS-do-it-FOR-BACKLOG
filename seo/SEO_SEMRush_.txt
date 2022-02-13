@@ -1,8 +1,12 @@
-visitas diretas no site: 120 per day 
-quantidade de páginas acessadas: 32
-taxa de rejeição:50%
-total de dominios de referencia:3
-
-tamanho do conteudo:(regra dos +45%)
-
-O.B.S.:taxa de rejeição sempre é maior que >49%                    
+##############################################################################################
+SEO_SEMrush)##################################################################################
+----------------------------------------------------------------------------------------------
+visitas diretas no site:-aguardando-deploy-final-----acessos-ao-site--------------------------
+quantidade de páginas acessadas: 3 paginas abertas---3-paginas-acessíssiveis-no-github-pages--
+taxa de rejeição: 80% (8-80)-------------------------taxa-de-apatia-visual-e-dinamica---------
+total de dominios de referencia:-<10-----------------[...]------------------------------------
+tamanho do conteudo: 37paginas (regra dos +45%)------[tamanho-de-conteudo-em-código]----------
+----------------------------------------------------------------------------------------------
+O.B.S.:taxa de rejeição sempre é maior que >49%------o.b.s.:observaçao::nota------------------
+----------------------------------------------------------------------------------------------
+##############################################################################################                    
