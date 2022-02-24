@@ -20,8 +20,6 @@ Backlog:                                 --conjunto-de-tarefas-ou-de-ideias-----
 => dev                                   --desenvolvimento-----------------------------
 => wiki                                  --wikipedia-do-github------------------------- 
 
-
- 
 TODO:#                                   #tarefa#######################################
 => entregue                              --Entrega-------------------------------------
 
@@ -49,7 +47,6 @@ TODO:                                    #tarefa#a#fazer########################
 => SWOT(01/03/22)                        --forças-e-diminutos--------------------------  
       
 DOING:                                   --fazendo-------------------------------------
-
 
 DONE:                                    --feito---------------------------------------
 => DOC                                   --design-pattern------------------------------
