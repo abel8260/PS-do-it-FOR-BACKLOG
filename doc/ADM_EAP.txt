@@ -14,10 +14,8 @@ Por entregar:                             --postagem do software principal------
 Por subprojeto: (mini projeto)            --projeto-dentro-de-projeto-------------
 # - tudo ok
 
-
 todo                                      --tarefa--------------------------------  
 # tudo ok;
-
 
 tipo: hibrida.                             --tipificaçao-------------------------- 
 ################################################################################## 
