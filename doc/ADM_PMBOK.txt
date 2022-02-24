@@ -17,19 +17,11 @@ Backlog:                                 --conjunto-de-tarefas-ou-de-ideias-----
 
 ## projeto de entrega 5                  --planejamento-de-postagem-5------------------
 => seo                                   --otimizaçao-de-busca-------------------------   
-=> bck[no]                               --NO------------------------------------------
 => dev                                   --desenvolvimento-----------------------------
 => wiki                                  --wikipedia-do-github------------------------- 
 
-## projeto de entrega 6                  --planejamento-de-postagem-6------------------
-=> login-others[no]                      --cortado-do-projeto-------------------------- 
 
-
-## projeto de entrega 7                  --planejamento-de-postagem-7------------------
-=> gerar export.json[no]                 --cortado-do-projeto--------------------------
-=> package[no]                           --cortado-do-projeto--------------------------   
-=> ++ux 2 camadas                        --cortado-pelo-prazo--------------------------
-
+ 
 TODO:#                                   #tarefa#######################################
 => entregue                              --Entrega-------------------------------------
 
@@ -54,7 +46,7 @@ ATUALIDADE:#####################################################################
 U:#--------------------------------------#tarefa#######################################
 
 TODO:                                    #tarefa#a#fazer###############################
-=> SWOT(15/02/22)                        --forças-e-diminutos--------------------------  
+=> SWOT(01/03/22)                        --forças-e-diminutos--------------------------  
       
 DOING:                                   --fazendo-------------------------------------
 
