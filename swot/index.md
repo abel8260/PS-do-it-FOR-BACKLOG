@@ -30,7 +30,8 @@
 
 ## 01/03/21
 
-| x                |
--------------------| 
-| em breve         |
-| em breve         | 
+
+| x                | fatores positivos |  fatores negativos |
+-------------------| ----------------- | ------------------ |
+| fatores internos |modelo-ok          |  testes            |
+| fatores externos |  documentado      |  prazos            |
