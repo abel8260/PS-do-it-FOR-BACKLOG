@@ -35,3 +35,12 @@
 -------------------| ----------------- | ------------------ |
 | fatores internos |modelo-ok          |  testes            |
 | fatores externos |  documentado      |  prazos            |
+
+## 16/03/21
+
+
+
+| x                | fatores positivos |  fatores negativos |
+-------------------| ----------------- | ------------------ |
+| fatores internos |    byout          |  testes            |
+| fatores externos |  documentado      |  prazos e modelo   |
