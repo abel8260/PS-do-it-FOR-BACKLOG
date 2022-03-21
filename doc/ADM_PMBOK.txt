@@ -1,0 +1,71 @@
+#######################################################################################
+Tarefas#: ###### projeto ps DO-IT BACKLOG--conjunto-de-tarefas-ou-de-ideias------------     
+
+Backlog:                                 --conjunto-de-tarefas-ou-de-ideias------------
+## projeto de entrega 3                  --planejamento-de-postagem-3------------------   
+=> kambam                                --planejamento-de-papeis----------------------    
+=> pnl.pdca                              --painel-pdca---------------------------------  
+=> doc.kpi                               --documentaçao-kpi----------------------------  
+=> doc.pdca                              --documentaçao-pdca--------------------------- 
+=> doc.smart15                           --documentaçao-smart-a-cada-15-dias-----------     
+=> doc.itil                              --documentaçao-itil---------------------------
+
+## projeto de entrega 4                  --planejamento-de-postagem-4------------------
+=> deploy                                --postagem-no-servidor------------------------ 
+=> status                                --postagem-do-estado-do-projeto---------------  
+=> produçao                              --colocado-para-funcionar---------------------      
+
+## projeto de entrega 5                  --planejamento-de-postagem-5------------------
+=> seo                                   --otimizaçao-de-busca-------------------------   
+=> dev                                   --desenvolvimento-----------------------------
+=> wiki                                  --wikipedia-do-github------------------------- 
+
+TODO:#                                   #tarefa#######################################
+=> entregue                              --Entrega-------------------------------------
+
+Plan:                                    -planejar-------------------------------------  
+=> entregue                              --Entrega-------------------------------------
+
+Dev:                                     -desenvolvimento------------------------------
+=> entregue                              --Entrega-------------------------------------
+
+Test:                                    -teste----------------------------------------
+=> (swot)(15/02/21)                      --forças-e-diminutos--------------------------
+=> SMART15                               --documentaçao-smart-a-cada-15-dias----------- 
+
+Deploy:                                  --post-no-server------------------------------
+=> LAST(15/02/21)                        --ultimo--------------------------------------
+
+Analyze:                                 --analise-------------------------------------
+=> entregue                              --Entrega-------------------------------------
+
+ATUALIDADE:############################################################################
+  
+U:#--------------------------------------#tarefa#######################################
+
+TODO:                                    #tarefa#a#fazer###############################
+=> SWOT(01/03/22)                        --forças-e-diminutos--------------------------  
+      
+DOING:                                   --fazendo-------------------------------------
+
+DONE:                                    --feito---------------------------------------
+=> DOC                                   --design-pattern------------------------------
+=> SMART15                               --documentaçao-smart-15-----------------------
+=> front                                 --front-end=visual-do-site--------------------
+=> indentaçao                            --espaço-e-nivel------------------------------
+=> swot                                  --forças-e-diminutos--------------------------
+=> mvc                                   --model-view-control--------------------------
+=> read-me apresentavel                  --read-me:documento-do-repositorio------------
+=> pd.prj                                --design-pattern------------------------------
+=> pmbok                                 --documentaçao-pmbok--------------------------
+=> eap                                   --documentaçao-eap----------------------------
+      
+FIM:U:#----------------------------------#tarefa#######################################
+
+PMBOK: #### DOCUMENTAÇÃO #################---------------------------------------------
+Inicio:                  23/11/21        --inicio--------------------------------------
+planejamento:            entregue        --planejamento-entregue-----------------------
+execução:     smart15 BY dev-ebol        --BY=POR-------------------------------------- 
+monitoramento e controle: SUmmerR        --summer:r-ia-para-laboratorio----------------
+Meta-benta: entrega de valor, CTA        --CTA=CALL-TO-ACTION--------------------------                          
+#######################################################################################
