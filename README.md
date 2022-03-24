@@ -14,10 +14,10 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 ![imagem](https://img.shields.io/badge/doc-pdca%20-blue)
 ![imagem](https://img.shields.io/badge/doc-pmbok%20-blue)
 ![imagem](https://img.shields.io/badge/doc-smart15%20-blue) 
-![imagem](https://img.shields.io/badge/doc-sow%20-blue) 
-![imagem](https://img.shields.io/badge/doc-google%20-orange) 
-![imagem](https://img.shields.io/badge/doc-semrush%20-orange) 
-![imagem](https://img.shields.io/badge/doc-sla%20-orange) 
+![imagem](https://img.shields.io/badge/teste-sow%20-blue) 
+![imagem](https://img.shields.io/badge/seo-google%20-orange) 
+![imagem](https://img.shields.io/badge/seo-semrush%20-orange) 
+![imagem](https://img.shields.io/badge/seo-sla%20-orange) 
 ![imagem](https://img.shields.io/badge/doc-ABCA%20-purple) 
 
 ***
