@@ -64,7 +64,10 @@ Por entregar:                             --postagem do software principal
 (# TODO)                                  --tarefa=to-do=a-fazer----------  
 # entrega 1 - home.html                   --pagina-home-em-html----------- 
 # entrega 2 - feature 2                   --entrega-da-feature-2----------
-# entrega 3 - final                       --entrega-final----------------- 
+# entrega 3 - final                       -------------------------------- 
+# entrega 4 - PRÉ-RELEASE                 --------------------------------
+# entrega 5 - release                     --entrega-5--------------------- 
+# entrega 6 - doc updated                 --entrega-6--------------------- 
 ##########################################################################
 Por-sub-projeto:(mini-projeto)############################################
 #widgets: --------------------------------serviços-extras-----------------
