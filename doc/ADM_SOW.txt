@@ -14,7 +14,7 @@ especificações técnicas: => vscode Widget;widget-do-visual-studio-code-------
 compartibilidade: open source-------------é-aberto-para-comunidade--------------    
 padrão de qualidade: A+ ------------------regra--------------------------------- 
 
-previsão de teste: 8-80 (14/02/22) -------teste-vindo---------------------------
+previsão de teste: LAST-X(24/03/22) ------teste-vindo-failure-------------------
 FIM - SOW - ####################################################################
 ################################################################################
                  
