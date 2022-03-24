@@ -51,7 +51,11 @@ Backlog:                                --conjunto-de-tarefas-ou-de-ideias
 ## projeto de entrega 5                 --planejamento-de-postagem-5------
 => seo                                  --otimizaçao-de-busca------------- 
 => dev                                  --desenvolvimento-----------------
-=> wiki                                 --wikipedia-do-github-------------  
+=> wiki                                 --wikipedia-do-github------------- 
+
+## projeto de entrega 6                 --planejamento-de-postagem-6------
+=> doc ABCA updated                     --documentaçao-reunidas-----------
+
 ##########################################################################
 Por fazer: (ciclo de vida)                --inicio e termino de vida do 
 software:
