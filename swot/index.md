@@ -28,7 +28,7 @@
 | fatores internos |modelo-by-out      |
 | fatores externos | Q&A               |
 
-## 01/03/21
+## 01/03/21  (LAST-1) 
 
 
 | x                | fatores positivos |  fatores negativos |
