@@ -36,7 +36,7 @@
 | fatores internos |modelo-ok          |  testes            |
 | fatores externos |  documentado      |  prazos            |
 
-## 16/03/21
+## 16/03/21  (LAST-2) 
 
 
 
