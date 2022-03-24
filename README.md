@@ -30,7 +30,7 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 - ✅ qualidade;
 - x orchestral;   
 - ✅ comentarios;
-- x modelo-by-out;      
+- ✅ modelo-by-out;      
 
 ### Roadmap:
 - WIKI: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/wiki
