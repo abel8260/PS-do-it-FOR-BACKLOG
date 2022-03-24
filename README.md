@@ -14,6 +14,8 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 ![imagem](https://img.shields.io/badge/doc-pmbok%20-blue)
 ![imagem](https://img.shields.io/badge/doc-smart15%20-blue) 
 ![imagem](https://img.shields.io/badge/teste-sow%20-yellow) 
+![imagem](https://img.shields.io/badge/teste-swot%20-yellow)
+![imagem](https://img.shields.io/badge/teste-880%20-yellow) 
 ![imagem](https://img.shields.io/badge/seo-google%20-orange) 
 ![imagem](https://img.shields.io/badge/seo-semrush%20-orange) 
 ![imagem](https://img.shields.io/badge/seo-sla%20-orange) 
