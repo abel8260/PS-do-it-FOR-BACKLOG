@@ -20,6 +20,9 @@ Backlog:                                 --conjunto-de-tarefas-ou-de-ideias-----
 => dev                                   --desenvolvimento-----------------------------
 => wiki                                  --wikipedia-do-github------------------------- 
 
+## projeto de entrega 6                  --planejamento-de-postagem-6------------------
+=> doc                                   --documentation-updated-----------------------                                    
+
 TODO:#                                   #tarefa#######################################
 => entregue                              --Entrega-------------------------------------
 
