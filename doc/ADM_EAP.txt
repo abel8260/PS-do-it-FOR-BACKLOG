@@ -3,13 +3,16 @@ EAP: #####################################--------------------------------------
 Por fazer: (ciclo de vida)                --inicio e termino de vida do software--  
 ciclo de vida 1 -  home.html /code_here   --codigo-home-e-pasta-code_here---------  
 ciclo de vida 2 - /code,/mvc,/doc,/con    --pastas-code-mvc-doc-con---------------   
-ciclo de vida 3 - entrega final           --postagem-em-midias-------------------  
- 
+ciclo de vida 3 - entrega final           --postagem-em-midias--------------------
+ciclo de vida 4 - [..]                    --matendo-em-pé-o-sistema---------------
+ciclo de vida 5 - segunda release[LAST-4] --variavel-atendida---------------------
+
 Por entregar:                             --postagem do software principal--------   
 (# TODO)                                  --tarefa=to-do=a-fazer------------------    
 # entrega 1 - home.html                   --pagina-home-em-html-------------------  
 # entrega 2 - feature 2                   --entrega-da-feature-2------------------   
 # entrega 3 - final                       --entrega-final-------------------------  
+# entrega 4 - segunda RELEASE             --variavel-LAST-atualizada--------------
 
 Por subprojeto: (mini projeto)            --projeto-dentro-de-projeto-------------
 # - tudo ok
