@@ -6,7 +6,7 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 
 ***
 
- ## :office: DOC:
+ ## DOC: https://doc.clickup.com/31042656/d/h/xkb30-282/30d86c4a70eb531
  
 ![imagem](https://img.shields.io/badge/doc-eap%20-blue)
 ![imagem](https://img.shields.io/badge/doc-itil%20-blue)
@@ -34,11 +34,6 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 
 ### Roadmap:
 - WIKI: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/wiki
-- Newsletter: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/tree/main/read-mes
-- perfil de projeto(feature-v-8-0): https://github.com/abel8260/PS-do-it-FOR-BACKLOG/tree/main/codigo_neste_lugar
-- stack e configuraçoes:  https://raw.githubusercontent.com/abel8260/PS-do-it-FOR-BACKLOG/main/con/conexao.md 
-- documentaçao: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/tree/main/doc
-- volta orchestrada:  https://github.com/users/abel8260/projects/10#card-79302573   / tolerancia de 10 dias : https://raw.githubusercontent.com/abel8260/PS-do-it-FOR-BACKLOG/main/doc/doc_KPI.txt     :
-- - ln 11
+- volta orchestrada:  https://github.com/users/abel8260/projects/10#card-79302573  
 KPI-3) tolerância: 10 dias -baixa-tolerancia-
 
