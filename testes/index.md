@@ -34,7 +34,8 @@
 | x                | fatores positivos |  fatores negativos |
 -------------------| ----------------- | ------------------ |
 | fatores internos |modelo-ok          |  testes            |
-| fatores externos |  documentado      |  prazos            |
+
+
 
 ## 16/03/21  (LAST-2) 
 
@@ -44,3 +45,13 @@
 -------------------| ----------------- | ------------------ |
 | fatores internos |    byout          |  testes            |
 | fatores externos |  documentado      |  prazos e modelo   |
+
+
+## 29/03/21  (LAST-4) 
+
+
+| x                | fatores positivos |  fatores negativos |
+-------------------| ----------------- | ------------------ |
+| fatores internos |modelo-ok          |  documentado       |
+| fatores externos |testes-ok          |  Q&A               |
+
