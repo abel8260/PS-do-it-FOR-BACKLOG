@@ -1,4 +1,4 @@
 - host: http://127.0.0.1:5500/ ;
 - port: 5500;
-- stack: xampp/lampp; 
+- stack: xampp/lampp;(ou extension vscode a recomendada é a live server).     
 - framework: bootstrap;    
