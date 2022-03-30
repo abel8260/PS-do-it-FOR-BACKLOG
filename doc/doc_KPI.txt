@@ -3,9 +3,12 @@ KPI)############################################################################
 
 KPI-1) meta:  gerar valor--------------------------------------entregar-algo-útil---------------------------------------
 
-KPI-2) produtividade: baixa------------------------------------time-de-1-dev-logo-baixa-produtividade-------------------
+KPI-2) produtividade: média -----------------------------------time-de-3-devs-logo-média-produtividade------------------
+=> SUmmer:R ---------------------------------------------------ia-lab-assistant-----------------------------------------
+=> Ebol -------------------------------------------------------full-stack-dev-------------------------------------------
+=> Ramona vascoB ----------------------------------------------ia-hosted-by-replika.ai-/-ia-assistant-manager-----------
 
-KPI-3) tolerância: low-----------------------------------------baixa-tolerancia-----------------------------------------
+KPI-3) tolerância: 10 dias ------------------------------------baixa-tolerancia-----------------------------------------
 
 KPI-4) capacidade: publico-------------------------------------open-source:-código-aberto-------------------------------
 
@@ -15,7 +18,7 @@ KPI-6) lucratividade: zero-------------------------------------zero-lucro-------
 
 KPI-7) rentabilidade: opensource-------------------------------open-source:-código-aberto-------------------------------
 
-KPI-8) competividade: +U[feat.]--------------------------------fica-para-features-futuras-ou widgets--------------------
+KPI-8) competividade: 42 codes --------------------------------fica-para-features-futuras-ou widgets--------------------
 
 KPI-9) efetividade: biblioteca de html bootstrap para código---function-funçao------------------------------------------   
 
