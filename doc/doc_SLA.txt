@@ -1,7 +1,0 @@
-############################################################
-SLA( service level agreement )##############################
-nivel de fono no:-------------------------------------------
-foi consentido de entregar um software/arte que entregue----
-um resultado de scrum board de backlog. com diversas funcio-
-nalidades de serviço ao backlog totalmente open-source------   
-############################################################
