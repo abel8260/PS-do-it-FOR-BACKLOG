@@ -28,12 +28,9 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 
 - ✅ estruturado; 
 - ✅ qualidade;
-- x orchestral;   
+- ✅ orchestral;   
 - ✅ comentarios;
 - ✅ modelo-by-out;      
 
 ### Roadmap:
 - WIKI: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/wiki
-- volta orchestrada:  https://github.com/users/abel8260/projects/10#card-79302573  
-KPI-3) tolerância: 10 dias -baixa-tolerancia-
-
