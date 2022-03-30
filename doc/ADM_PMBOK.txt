@@ -68,8 +68,8 @@ FIM:U:#----------------------------------#tarefa################################
 
 PMBOK: #### DOCUMENTAÇÃO #################---------------------------------------------
 Inicio:                  23/11/21        --inicio--------------------------------------
-planejamento:            entregue        --planejamento-entregue-----------------------
-execução:     smart15 BY dev-ebol        --BY=POR-------------------------------------- 
+planejamento:     segunda-entrega        --planejamento-entregue-----------------------
+execução:    test8-80 BY dev-ebol        --BY=POR-------------------------------------- 
 monitoramento e controle: SUmmerR        --summer:r-ia-para-laboratorio----------------
 Meta-benta: entrega de valor, CTA        --CTA=CALL-TO-ACTION--------------------------                          
 #######################################################################################
