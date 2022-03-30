@@ -23,7 +23,7 @@ SEÇAO-'(8 dos arquivos)'----------------------------
 #:PS-do-it-FOR-BACKLOG/doc/doc_KPI.txt[ok] 
 #:PS-do-it-FOR-BACKLOG/doc/doc_SLA.txt[ok-updated]  
 #:PS-do-it-FOR-BACKLOG/doc/doc_SMART.txt[redefined]
-#:--------------------------------------------------
+#:PS-do-it-FOR-BACKLOG/doc/doc_pdca.txt[ok]
 #:--------------------------------------------------
 ####################################################
 ----------------------------------------------------
