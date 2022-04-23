@@ -21,8 +21,10 @@ Backlog:                                 --conjunto-de-tarefas-ou-de-ideias-----
 => wiki                                  --wikipedia-do-github------------------------- 
 
 ## projeto de entrega 6                  --planejamento-de-postagem-6------------------
-=> doc                                   --documentation-updated-----------                                
+=> doc                                   --documentation-updated-----------------------                                
 
+## projeto de entrega 7                 --planejamento-de-postagem-6------------------
+=> doc                                   --documentation-updated-----------------------    
 
 TODO:#                                   #tarefa#######################################
 => entregue                              --Entrega-------------------------------------
@@ -40,6 +42,7 @@ Test:                                    -teste---------------------------------
 Deploy:                                  --post-no-server------------------------------
 => LAST(15/02/22)                        --ultimo--------------------------------------
 => LAST-4(29/03/22)                      --variavel-last-uodated-----------------------
+=> LAST-5(27/04/22)                      --variavel-last-up-to-dated-------------------     
 
 Analyze:                                 --analise-------------------------------------
 => entregue                              --Entrega-------------------------------------
@@ -69,8 +72,8 @@ FIM:U:#----------------------------------#tarefa################################
 
 PMBOK: #### DOCUMENTAÇÃO #################---------------------------------------------
 Inicio:                  23/11/21        --inicio--------------------------------------
-planejamento:     segunda-entrega        --planejamento-entregue-----------------------
-execução:    test8-80 BY dev-ebol        --BY=POR-------------------------------------- 
+planejamento:     ---------------        --a-planejar--------------------------------
+execução:    --------------------        --BY=POR-------------------------------------- 
 monitoramento e controle: SUmmerR        --summer:r-ia-para-laboratorio----------------
 Meta-benta: entrega de valor, CTA        --CTA=CALL-TO-ACTION--------------------------                          
 #######################################################################################
