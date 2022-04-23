@@ -18,10 +18,11 @@ Por entregar:                             --postagem do software principal------
 
 
 Por subprojeto: (mini projeto)            --projeto-dentro-de-projeto-------------
-# - tudo ok
+# - transcripts                           --begin-at-once-------------------------  
 
 todo                                      --tarefa--------------------------------  
-# tudo ok;
+# execuçao
+# planejamento    
 
 tipo: hibrida.                             --tipificaçao-------------------------- 
 ################################################################################## 
