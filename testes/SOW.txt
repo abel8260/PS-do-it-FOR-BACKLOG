@@ -4,18 +4,20 @@ SOW - Declaraçao de trabalho ##################################################
 Nome: ps.DO-IT  for Backlog---------------P.S.:faça-----------------------------  
 
 resultado negociado:----------------------resultado-negociados-em-termos--------   
-37 códigos => 16/02/22(ok)--------------37-sources-até-dia-16-02-21-----------  
-42 códigos => 29/03/22(ok)--------------42-sources-até-dia-29-03-21-----------  
+37 códigos => 16/02/22(ok)--------------37-sources-até-dia-16-02-22-----------  
+42 códigos => 29/03/22(ok)--------------42-sources-até-dia-29-03-22-----------  
+x codes => 18/05/22(up to dated)--------x-sources-até-dia-18-05-22(a negociar)
 
 descrição dos usos dos dados:-------------descriçao-de-usos--------------------- 
 => entregue ------------------------------entregado-em-termos------------------- 
-  
+=>  codigos  em texto---------------------a-entregar----------------------------
+
 especificações técnicas: => vscode Widget;widget-do-visual-studio-code---------- 
 
 compartibilidade: open source-------------é-aberto-para-comunidade--------------    
 padrão de qualidade: A+ ------------------regra--------------------------------- 
 
-previsão de teste: LAST-4(24/03/22) ------teste-8-80-added----------------------
+previsão de teste: LAST-5(24/04/22) ------teste-8-80-added----------------------
 FIM - SOW - ####################################################################
 ################################################################################
                  
