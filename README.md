@@ -37,5 +37,5 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 - stack e configuraçoes:  https://raw.githubusercontent.com/abel8260/PS-do-it-FOR-BACKLOG/main/con/conexao.md 
 - documentaçao: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/tree/main/doc
 - volta orchestrada:  https://github.com/users/abel8260/projects/10#card-79302573   / tolerancia de 10 dias : https://raw.githubusercontent.com/abel8260/PS-do-it-FOR-BACKLOG/main/doc/doc_KPI.txt     :
-- - ln 11
-KPI-3) tolerância: 10 dias -baixa-tolerancia-
+
+<b> KPI-3)</b> tolerância: 10 dias -baixa-tolerancia-
