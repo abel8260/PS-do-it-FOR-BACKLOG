@@ -6,7 +6,7 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 
 ***
 
- ## DOC: https://doc.clickup.com/31042656/d/h/xkb30-282/30d86c4a70eb531
+ ## DOC:
  
 ![imagem](https://img.shields.io/badge/doc-eap%20-blue)
 ![imagem](https://img.shields.io/badge/doc-itil%20-blue)
