@@ -13,7 +13,7 @@
 <br/>
 
 
-## 31/01/21
+## 31/01/22
 
 | x                | fatores positivos |  fatores negativos |
 -------------------| ----------------- | ------------------ |
@@ -21,14 +21,14 @@
 | fatores externos | Q&A               |  documentado       |
 
 
-## 15/02/21
+## 15/02/22
 
 | x                |y                  |
 -------------------| ----------------- | 
 | fatores internos |modelo-by-out      |
 | fatores externos | Q&A               |
 
-## 01/03/21  (LAST-1) 
+## 01/03/22 (LAST-1) 
 
 
 | x                | fatores positivos |  fatores negativos |
@@ -37,7 +37,7 @@
 
 
 
-## 16/03/21  (LAST-2) 
+## 16/03/22  (LAST-2) 
 
 
 
@@ -47,7 +47,7 @@
 | fatores externos |  documentado      |  prazos e modelo   |
 
 
-## 29/03/21  (LAST-4) 
+## 29/03/22  (LAST-4) 
 
 
 | x                | fatores positivos |  fatores negativos |
@@ -55,3 +55,10 @@
 | fatores internos |modelo-ok          |  documentado       |
 | fatores externos |testes-ok          |  Q&A               |
 
+## 24/03/22  (LAST-5) 
+
+
+| x                | fatores positivos |  fatores negativos |
+-------------------| ----------------- | ------------------ |
+| fatores internos |   |       |
+| fatores externos ||               |
