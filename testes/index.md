@@ -55,7 +55,17 @@
 | fatores internos |modelo-ok          |  documentado       |
 | fatores externos |testes-ok          |  Q&A               |
 
-## 24/03/22  (LAST-5) 
+
+## 14/04/22  (out-dated) 
+
+
+| x                | fatores positivos |  fatores negativos |
+-------------------| ----------------- | ------------------ |
+| fatores internos |modelo-ok          |  documentado       |
+| fatores externos |testes             |  teste & Q&A       |
+
+
+## 29/03/22  (LAST-6) 
 
 
 | x                | fatores positivos |  fatores negativos |
