@@ -24,7 +24,7 @@ Backlog:                                 --conjunto-de-tarefas-ou-de-ideias-----
 => doc                                   --documentation-updated-----------------------                                
 
 ## projeto de entrega 7                 --planejamento-de-postagem-6------------------
-=> doc                                   --documentation-updated-----------------------    
+=> doc, transcripts e v-rota             --documentation-updated-----------------------    
 
 TODO:#                                   #tarefa#######################################
 => entregue                              --Entrega-------------------------------------
