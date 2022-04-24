@@ -38,10 +38,10 @@ digo_neste_lugar/home.html[ok]
 digo_neste_lugar/source.html[ok]
 #:https://abel8260.github.io/PS-do-it-FOR-BACKLOG/co
 digo_neste_lugar/profile.html[ok]
-#:PS-do-it-FOR-BACKLOG/mvc/Diagram1.dia   
-#:PS-do-it-FOR-BACKLOG/mvc/Diagram1.png   
-#:PS-do-it-FOR-BACKLOG/mvc/Diagram2.dia   
-#:PS-do-it-FOR-BACKLOG/mvc/Diagram2.png  
+#:PS-do-it-FOR-BACKLOG/mvc/Diagram1.dia[repor] 
+#:PS-do-it-FOR-BACKLOG/mvc/Diagram1.png[repor]
+#:PS-do-it-FOR-BACKLOG/mvc/Diagram2.dia[ok]
+#:PS-do-it-FOR-BACKLOG/mvc/Diagram2.png[ok]
 ####################################################
 ----------------------------------------------------
 ####################################################
