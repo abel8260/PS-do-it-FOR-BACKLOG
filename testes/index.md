@@ -65,7 +65,7 @@
 | fatores externos |testes             |  teste & Q&A       |
 
 
-## 29/03/22  (LAST-6) 
+## 29/03/22 
 
 
 | x                | fatores positivos |  fatores negativos |
