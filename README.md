@@ -36,3 +36,4 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 - WIKI: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/wiki
 - stack e configuraçoes:  https://raw.githubusercontent.com/abel8260/PS-do-it-FOR-BACKLOG/main/con/conexao.md 
 - documentaçao: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/tree/main/doc
+- resumo do andamento do projeto: https://raw.githubusercontent.com/abel8260/PS-do-it-FOR-BACKLOG/main/pnl/pnl.AB_CA.txt
