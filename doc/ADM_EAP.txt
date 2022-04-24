@@ -21,9 +21,9 @@ Por subprojeto: (mini projeto)            --projeto-dentro-de-projeto-----------
 # - transcripts                           --begin-at-once-------------------------  
 
 todo                                      --tarefa--------------------------------  
-# execuçao,pmbok
-# planejamento,pmbok
-# trascripts,itil,eap  
+# execuçao,pmbok[ok]
+# planejamento,pmbok[up-to-dated] 
+# trascripts,itil,eap[up-to-dated]
 
 tipo: hibrida.                             --tipificaçao-------------------------- 
 ################################################################################## 
