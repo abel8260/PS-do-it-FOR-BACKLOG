@@ -7,6 +7,7 @@ ciclo de vida 3 - entrega final           --postagem-em-midias------------------
 ciclo de vida 4 - [..]                    --matendo-em-pé-o-sistema---------------
 ciclo de vida 5 - segunda release[LAST-4] --variavel-atendida---------------------
 ciclo de vida 6 - doc manutençao          --manutençao-rotineira------------------   
+ciclo de vida 7 - failure(30)             --matendo-em-pé-o-sistema---------------
 
 Por entregar:                             --postagem do software principal--------   
 (# TODO)                                  --tarefa=to-do=a-fazer------------------    
@@ -15,7 +16,8 @@ Por entregar:                             --postagem do software principal------
 # entrega 3 - final                       --entrega-final-------------------------  
 # entrega 4 - segunda RELEASE             --variavel-LAST-atualizada--------------
 # entrega 5 - terceira RELEASE            --doc-manutençao------------------------          
-
+# entrega 6 - doc manutençao              --manutençao-rotineira------------------   
+# entrega 7 - failure(30)                 --matendo-em-pé-o-sistema---------------
 
 Por subprojeto: (mini projeto)            --projeto-dentro-de-projeto-------------
 # - transcripts                           --begin-at-once-------------------------  
