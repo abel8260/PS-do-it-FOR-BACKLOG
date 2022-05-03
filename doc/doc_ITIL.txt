@@ -6,6 +6,7 @@ Estratégia de serviço:--------------------serviços--------------------------
 #necessidades: BS-------------------------necessidades----------------------
 vscode------------------------------------necessidades----------------------
 live-code-extension-vs-code---------------necessidades----------------------
+xampp-------------------------------------necessidades---------------------- 
 
 Projeto de serviço:-----------------------projetos-de-serviços--------------
 #service-design:scrum-helper--------------próposito-------------------------
