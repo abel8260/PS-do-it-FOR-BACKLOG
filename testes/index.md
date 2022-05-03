@@ -65,10 +65,10 @@
 | fatores externos |testes             |  teste & Q&A       |
 
 
-## 29/03/22 
+## 29/04/22  (out-dated) 
 
 
 | x                | fatores positivos |  fatores negativos |
 -------------------| ----------------- | ------------------ |
-| fatores internos |   |       |
-| fatores externos ||               |
+| fatores internos |  model-new | documento      |
+| fatores externos |testes      | testes      |
