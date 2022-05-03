@@ -22,10 +22,10 @@ Dev:                                     -desenvolvimento-----------------
 => entregue                              --Entrega------------------------
 
 Test:                                    -teste---------------------------
-=> (swot)(30/04/21)                      --forças-e-diminutos-------------
+=> (swot)                               --forças-e-diminutos-------------
 
 Deploy:                                  --post-no-server-----------------
-=> RELEASE-3(01/04/21)                      --ultimo-------------------------
+=> RELEASE-3                             --ultimo-------------------------
 
 Analyze:                                 --analise------------------------
 => v-rota                                --analise------------------------
@@ -75,7 +75,7 @@ Por entregar:                             --postagem do software principal
 # entrega 4 - PRÉ-RELEASE                 --------------------------------
 # entrega 5 - release                     --entrega-5--------------------- 
 # entrega 6 - doc updated                 --entrega-6--------------------- 
-# entrega 7 - transcripts,v-rota          --entrega-7---------------------   
+# entrega 7 - [...]                       --entrega-7---------------------   
 ##########################################################################
 Por-sub-projeto:(mini-projeto)############################################
 #widgets: --------------------------------serviços-extras-----------------
