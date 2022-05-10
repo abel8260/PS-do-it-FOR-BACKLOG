@@ -72,3 +72,10 @@
 -------------------| ----------------- | ------------------ |
 | fatores internos |  model-new | documento      |
 | fatores externos |testes      | testes      |
+
+## 14/05/22  (out-dated)
+
+| x                | fatores positivos |  fatores negativos |
+-------------------| ----------------- | ------------------ |
+| fatores internos |  img | SOW      |
+| fatores externos | mds | mds      |
