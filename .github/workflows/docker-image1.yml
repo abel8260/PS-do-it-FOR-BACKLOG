@@ -10,14 +10,12 @@ on:
     - main
   schedule:
   - cron: "0 2 * * 1-5"
+  
 jobs:
 
   build:
 
-    my_job:
-    name: deploy to staging
-    runs-on: ubuntu-18.04
-    
-- name: Setup php
-  uses: MilesChou/php-tools-action@v1.0.0
+   - name: Setup php
+     uses: MilesChou/php-tools-action@v1.0.0
+
   
