@@ -15,7 +15,7 @@ jobs:
 
   build:
 
-   - name: Setup php
+     name: Setup php
      uses: MilesChou/php-tools-action@v1.0.0
 
   
