@@ -9,7 +9,8 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
  ## DOC:
  
 - https://abel8260.github.io/PS-do-it-FOR-BACKLOG-api-/apispsdoit/src/api/index.html
-- 
+
+
 ***
 
 
