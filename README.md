@@ -8,29 +8,10 @@ Abordando metodologia scrum, esse mini sistema estréia um passo a passo de back
 
  ## DOC:
  
-![imagem](https://img.shields.io/badge/doc-eap%20-blue)
-![imagem](https://img.shields.io/badge/doc-itil%20-blue)
-![imagem](https://img.shields.io/badge/doc-kpi%20-blue)
-![imagem](https://img.shields.io/badge/doc-pmbok%20-blue)
-![imagem](https://img.shields.io/badge/doc-smart15%20-blue) 
-![imagem](https://img.shields.io/badge/teste-sow%20-yellow) 
-![imagem](https://img.shields.io/badge/teste-swot%20-yellow)
-![imagem](https://img.shields.io/badge/teste-880%20-yellow) 
-![imagem](https://img.shields.io/badge/seo-google%20-orange) 
-![imagem](https://img.shields.io/badge/seo-semrush%20-orange) 
-![imagem](https://img.shields.io/badge/seo-sla%20-orange) 
-![imagem](https://img.shields.io/badge/pnl-ABCA%20-purple) 
-![imagem](https://img.shields.io/badge/pnl-pdca%20-purple)
-
+- https://abel8260.github.io/PS-do-it-FOR-BACKLOG-api-/apispsdoit/src/api/index.html
+- 
 ***
 
-## Qualidade de software:
-
-- ✅ estruturado; 
-- ✅ qualidade;
-- ✅ orchestral;   
-- ✅ comentarios;
-- ✅ modelo-by-out;      
 
 ### Roadmap:
 - WIKI: https://github.com/abel8260/PS-do-it-FOR-BACKLOG/wiki
